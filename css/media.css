@@ -1,0 +1,563 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header*/
+.logo {
+    width: 150px;
+}
+.menu ul li a {
+    padding: 0 5px !important;
+}
+.btn-user, .btn-search {
+    padding: 5px;
+}
+.u_dropdown_menu{
+    top: 77px;
+    left: 0px;
+}
+.s_dropdown_menu{
+	top: 42px;
+    left: 0px;
+}
+/*banner*/
+.b_content h1 {
+    margin: 150px 0;
+    font-size: 30px;
+}
+.b_content p {
+    margin-top: -30px;
+}
+/*kid1*/
+.common_title {
+    margin-bottom: 0px;
+}
+.c_h1 {
+    font-size: 22px;
+}
+.kid_1 {
+    padding: 50px 0;
+}
+.kid1_content {
+    margin-top: 16px;
+}
+.kid1_content p {
+    line-height: 25px;
+    margin-bottom: 16px;
+}
+.kid1_content hr {
+    margin: 5px 0;
+}
+.kid1_img {
+    margin: 10px 0;
+}
+.btn_kid1 {
+    width: 150px;
+    margin-top: 10px;
+}
+/*kid 2*/
+.kid_2 {
+    padding: 50px 0;
+}
+.kid_single_item {
+    margin: 20px 0;
+}
+/*feature*/
+.feature {
+    padding: 50px 0;
+}
+.hr-2{
+	margin-bottom: 36px;
+}
+.card-text p{
+	margin-bottom: 0px !important;
+}
+.card {
+    margin-bottom: 36px;
+}
+.green-card{
+	margin-bottom: 23px !important;
+}
+.button {
+    margin-top: 0;
+}
+.btn-custom {
+    padding: 5px 0;
+}
+/*moments*/
+.moments {
+    padding: 50px 0;
+}
+.moments-img {
+    margin: 20px 0;
+}
+.moments-hr {
+    margin-bottom: 20px;
+}
+.moments-btn {
+    margin-top: 0px;
+}
+/*people start*/
+.people {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.top_content span i {
+    margin-bottom: 10px;
+}
+.top_content a {
+    margin-bottom: 5px;
+}
+.top_content p {
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.title-2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.people-content {
+    margin-top: 10px;
+}
+/*counter start*/
+.counter_up {
+    padding: 50px 0;
+}
+.counter_hr{
+    width: 150px;
+}
+.count-title {
+    font-size: 20px;
+    margin-top: 0;
+ }
+ .count-text {
+    font-size: 16px;
+    margin-top: 0;
+}
+/*recent updates*/
+.updates {
+    padding: 50px 0;
+}
+.wrapper {
+    margin-top: 20px;
+}
+.wrapper:first-child{
+    margin-top: 0;
+}
+.wrapper:last-child{
+    margin-bottom: 30px;
+}
+.events_img {
+    margin-top: 10px;
+}
+.n_h1 {
+    margin-bottom: 20px !important;
+}
+.u_title{
+    margin-bottom: 10px;
+}
+.wrapper_2{
+    margin-top: 0;
+}
+.news_content hr {
+    width: 250px;
+}
+.news_img {
+    margin-top: 12px;
+}
+/*updates start*/
+.contacts{
+    background-image: none;
+    background-color: #ffffff;
+    padding: 50px 0;
+}
+.wrapper_3 {
+    margin-top: 0;
+}
+.insta {
+    margin-top: 20px;
+}
+.contact_us{
+    margin-top: 30px;
+}
+.newsletter {
+    margin-top: 30px;
+}
+.n_input {
+    width: 285px;
+}
+/*footer start*/
+.f_links ul{
+    margin: 0;
+}
+.cr {
+    margin-top: 10px;
+}
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header*/
+.logo {
+    width: 150px;
+}
+.menu ul li a {
+    padding: 0 5px !important;
+}
+.btn-user, .btn-search {
+    padding: 5px;
+}
+.u_dropdown_menu{
+    top: 77px;
+    left: 0px;
+}
+.s_dropdown_menu{
+	top: 42px;
+    left: 0px;
+}
+/*banner*/
+.b_content h1 {
+    margin: 150px 0;
+    font-size: 38px;
+}
+.b_content p {
+    margin-top: -30px;
+}
+/*kid1*/
+.common_title {
+    margin-bottom: 0px;
+}
+.kid_1 {
+    padding: 50px 0;
+}
+.kid1_content {
+    margin-top: 16px;
+}
+.kid1_content p {
+    line-height: 25px;
+    margin-bottom: 16px;
+}
+.kid1_content hr {
+    margin: 5px 0;
+}
+.kid1_img {
+    margin: 20px 0;
+}
+.btn_kid1 {
+    width: 180px;
+    margin-top: 20px;
+}
+/*kid 2*/
+.kid_2 {
+    padding: 50px 0;
+}
+.kid_single_item {
+    margin: 20px 0;
+}
+/*feature*/
+.feature {
+    padding: 50px 0;
+}
+.hr-2{
+	margin-bottom: 36px;
+}
+.card-text p{
+	margin-bottom: 0px !important;
+}
+.card {
+    margin-bottom: 36px;
+}
+.green-card{
+	margin-bottom: 23px !important;
+}
+.button {
+    margin-top: 0;
+}
+.btn-custom {
+    padding: 5px 0;
+}
+/*moments*/
+.moments {
+    padding: 50px 0;
+}
+.moments-img {
+    margin: 20px 0;
+}
+.moments-hr {
+    margin-bottom: 30px;
+}
+.moments-btn {
+    margin-top: 0px;
+}
+/*people start*/
+.people {
+    padding: 50px 0;
+}
+.top_content span i {
+    margin-bottom: 10px;
+}
+.top_content a {
+    margin-bottom: 5px;
+}
+.top_content p {
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.title-2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+/*counter start*/
+.counter_up {
+    padding: 50px 0;
+}
+.count-title {
+    font-size: 40px;
+    margin-top: 0;
+ }
+ .count-text {
+    font-size: 20px;
+    margin-top: 0;
+}
+/*recent updates*/
+.updates {
+    padding: 50px 0;
+}
+.wrapper {
+    margin-top: 20px;
+}
+.wrapper:first-child{
+    margin-top: 0;
+}
+.wrapper:last-child{
+    margin-bottom: 30px;
+}
+.n_h1 {
+    margin-bottom: 20px !important;
+}
+.u_title{
+    margin-bottom: 10px;
+}
+.wrapper_2{
+    margin-top: 0;
+}
+.news_content hr {
+    width: 250px;
+}
+.news_img {
+    margin-top: 15px;
+}
+/*updates start*/
+.contacts{
+    background-image: none;
+    background-color: #ffffff;
+    padding: 50px 0;
+}
+.wrapper_3 {
+    margin-top: 0;
+}
+.insta {
+    margin-top: 20px;
+}
+.contact_us{
+    margin-top: 10px;
+}
+.newsletter {
+    margin-top: 10px;
+}
+.n_input {
+    width: 230px;
+}
+/*footer start*/
+.f_links ul{
+    margin: 0;
+}
+.cr {
+    margin-top: 10px;
+}
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header*/
+.logo {
+    width: 150px;
+}
+.menu ul li a {
+    padding: 0 5px !important;
+}
+.btn-user, .btn-search {
+    padding: 5px;
+}
+.u_dropdown_menu{
+    top: 77px;
+    left: 0px;
+}
+.s_dropdown_menu{
+	top: 42px;
+    left: 0px;
+}
+/*banner*/
+.b_content h1 {
+    margin: 200px 0;
+    font-size: 40px;
+}
+.b_content p {
+    margin-top: -20px;
+}
+/*kid1*/
+.kid_1 {
+    padding: 70px 0;
+}
+.common_title {
+    margin-bottom: 30px;
+}
+.kid1_content p {
+    line-height: 25px;
+    margin-bottom: 16px;
+}
+.kid1_img {
+    margin-top: 60px;
+}
+.btn_kid1 {
+    width: 180px;
+    margin-top: 14px;
+}
+/*kid 2*/
+.kid_2 {
+    padding: 70px 0;
+}
+/*feature*/
+.feature {
+    padding: 70px 0;
+}
+.hr-2{
+	margin-bottom: 50px;
+}
+.card-text p{
+	margin-bottom: 0px !important;
+}
+.card {
+    margin-bottom: 50px;
+}
+.button {
+    margin-top: 0;
+}
+/*moments*/
+.moments {
+    padding: 70px 0;
+}
+.moments-hr {
+    margin-bottom: 50px;
+}
+.moments-btn {
+    margin-top: 0px;
+}
+/*people start*/
+.people {
+    padding: 70px 0;
+}
+.top_content span i {
+    margin-bottom: 10px;
+}
+.top_content a {
+    margin-bottom: 5px;
+}
+.top_content p {
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.title-2 {
+    margin-top: 40px;
+}
+/*counter start*/
+.counter_up {
+    padding: 70px 0;
+}
+.count-title {
+    font-size: 50px;
+    margin-top: 0;
+ }
+ .count-text {
+    font-size: 22px;
+    margin-top: 0;
+}
+/*recent updates*/
+.updates {
+    padding: 70px 0;
+}
+.wrapper {
+    margin-top: 20px;
+}
+.wrapper:first-child{
+    margin-top: 0;
+}
+.wrapper:last-child{
+    margin-bottom: 30px;
+}
+.n_h1 {
+    margin-bottom: 20px !important;
+}
+.u_title{
+    margin-bottom: 10px;
+}
+.news_content hr {
+    width: 250px;
+}
+.news_img {
+    margin-top: 15px;
+}
+/*updates start*/
+.contacts {
+    padding: 50px 0;
+}
+.wrapper_3 {
+    margin-top: 200px;
+}
+.contact_us{
+    margin-top: 30px;
+}
+.newsletter {
+    margin-top: 30px;
+}
+.n_input {
+    width: 330px;
+}
+}
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header*/
+.menu ul li a {
+    padding: 0 10px !important;
+}
+/*banner*/
+.b_content h1 {
+    margin: 200px 0;
+    font-size: 40px;
+}
+/*kid1*/
+.kid1_img {
+    margin-top: 40px;
+}
+.btn_kid1 {
+    width: 180px;
+}
+/*feature*/
+.red-card,.yellow-card{
+	padding-bottom: 11%;
+}
+/*recent updates*/
+.news_content hr {
+    width: 250px;
+}
+.news_img {
+    margin-top: 15px;
+}
+/*contacts*/
+.n_input {
+    width: 200px;
+}
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
